@@ -1,6 +1,6 @@
 # Репозиторий с экспериментами
 
 - cpp
-    - [mutex](sandboxes/cpp/mutex/README.md)
+    - [Пример работы с mutex](sandboxes/cpp/mutex/README.md)
 - html
-    - [scrollable-panes-flex](sandboxes/html/scrollable-panes-flex/README.md)
+    - [Пример использования flex для создания панелей со скроллингом, растянутых по высоте на 100%](sandboxes/html/scrollable-panes-flex/README.md)
